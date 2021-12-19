@@ -2,7 +2,7 @@
 
 ### Presentations
 
-- 2021  Integrated top-down and bottom-up processing in perception of non-native tone system  [[slides](PARLAY2021_lz&ec_slides.pdf)] 
+- 2021  Integrated top-down and bottom-up processing in perception of non-native tone systems  [[slides](PARLAY2021_lz&ec_slides.pdf)] 
   - Liang Zhao and Eleanor Chodroff
   - [PARLAY Conference](http://parlayconference.altervista.org/?doing_wp_cron=1639720804.8743081092834472656250) @University of York, 29/September/2021 (virtual)
   
