@@ -31,8 +31,6 @@
 
 ### Publications
 
-(Under review) Zhao & Chodroff. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialect. Submitted to LREC. Preprint from https://osf.io/69fx5/.
-
 Zhao, L., Sloggett, S. & Chodroff, E. (2022). Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect
 tone systems. *Proceedings of Speech Prosody 2022*. (Final draft submitted) [PDF](XXX)
 
