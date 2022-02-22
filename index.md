@@ -3,7 +3,7 @@
 ### Presentations
 - 2022  Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems [poster](xxx)
   - Liang Zhao, Shayne Sloggett, and Eleanor Chodroff
-  - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), biennial meeting of the Speech Prosody Special Interest Group (SProSIG) of the International Speech Communication Association (ISCA), **to present in May/2022**, Lisbon, Portugal
+  - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), SProSIG of ISCA, **to present in May/2022**, Lisbon, Portugal
 
 
 - 2022  Rapid adaptation to unfamiliar Mandarin dialect tone systems: evidence from bottom-up tone processing [slides](xxx)
@@ -34,7 +34,7 @@
 (Under review) Zhao & Chodroff. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialect. Submitted to LREC. Preprint from https://osf.io/69fx5/.
 
 Zhao, L., Sloggett, S. & Chodroff, E. (2022). Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect
-tone systems. *Proceedings of Speech Prosody 2022*. (submitted) [PDF](XXX)
+tone systems. *Proceedings of Speech Prosody 2022*. (Final draft submitted) [PDF](XXX)
 
 The Structure of Space in Amsterdam, published in Overseas English, 2015 (20). ISSN1009-5039.(*Chinese*)
 
