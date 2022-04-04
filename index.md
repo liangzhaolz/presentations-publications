@@ -6,7 +6,7 @@
   - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), SProSIG of ISCA
   - 23-26/May/2022, Lisbon, Portugal
 
-- 2022  Rapid adaptation to unfamiliar Mandarin dialect tone systems: evidence from bottom-up tone processing [slides](xxx)
+- 2022  Rapid adaptation to unfamiliar Mandarin dialect tone systems: evidence from bottom-up tone processing [[slides](BAAP2022_slides.pdf)]
   - Liang Zhao & Eleanor Chodroff
   - [BAAP 2022](https://sites.google.com/york.ac.uk/baap2022york/home), Colloquium of the British Association of Academic Phoneticians
   - 04-08/April/2022, York, UK
