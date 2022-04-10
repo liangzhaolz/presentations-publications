@@ -1,6 +1,11 @@
 ## Research
 
 ### Presentations
+2022 The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects
+  - Liang Zhao and Eleanor Chodroff
+  - [LREC 2022](https://lrec2022.lrec-conf.org/en/)
+  - 20-25/June/2022, Marseille, France
+
 2022  Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems [poster](xxx)
   - Liang Zhao, Shayne Sloggett, and Eleanor Chodroff
   - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), SProSIG of ISCA
@@ -30,9 +35,9 @@
 
 
 ### Publications
+*Accepted*  Zhao, L. and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. *Proceedings of LREC 2022*.
 
-Zhao, L., Sloggett, S. & Chodroff, E. (2022). Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect
-tone systems. *Proceedings of Speech Prosody 2022*. (Final draft submitted) [PDF](XXX)
+*Accepted*  Zhao, L., Sloggett, S. & Chodroff, E. (2022). Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems. *Proceedings of Speech Prosody 2022*. [pdf](XXX)
 
 The Structure of Space in Amsterdam, published in Overseas English, 2015 (20). ISSN1009-5039.(*Chinese*)
 
