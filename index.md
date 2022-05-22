@@ -1,14 +1,14 @@
 ## Research
 
 ### Presentations
-2022 The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects
+2022 The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects [poster](LREC2022_Zhao&Chodroff_poster.pdf)
   - Liang Zhao and Eleanor Chodroff
-  - [LREC 2022](https://lrec2022.lrec-conf.org/en/)
+  - [LREC 2022](https://lrec2022.lrec-conf.org/en/), Language Resources and Evaluation Conference
   - 20-25/June/2022, Marseille, France
 
-2022  Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems [poster](xxx)
+2022  Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems [poster](SP2022_poster.pdf)
   - Liang Zhao, Shayne Sloggett, and Eleanor Chodroff
-  - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), SProSIG of ISCA
+  - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), SProSIG of ISCA (International Speech Communication Association)
   - 23-26/May/2022, Lisbon, Portugal
 
 2022  Rapid adaptation to unfamiliar Mandarin dialect tone systems: evidence from bottom-up tone processing [[slides](BAAP2022_slides.pdf)]
@@ -35,9 +35,9 @@
 
 
 ### Publications
-*Accepted*  Zhao, L. and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. *Proceedings of LREC 2022*.
+Zhao, L. and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. To appear in *Proceedings of LREC 2022*. [preprint](LREC2022_Zhao&Chodroff_paper.pdf)
 
-*Accepted*  Zhao, L., Sloggett, S. & Chodroff, E. (2022). Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems. *Proceedings of Speech Prosody 2022*. [pdf](XXX)
+Zhao, L., Sloggett, S. & Chodroff, E. (2022). Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems. To appear in *Proceedings of Speech Prosody 2022*.[preprint](ZhaoSloggettChodroff_SpeechProsody_2022.pdf)
 
 The Structure of Space in Amsterdam, published in Overseas English, 2015 (20). ISSN1009-5039.(*Chinese*)
 
