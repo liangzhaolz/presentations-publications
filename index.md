@@ -37,7 +37,7 @@
 ### Publications
 Zhao, L. and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. *Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)*, 1985–1990. [[PDF](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.213.pdf)]
 
-Zhao, L., Sloggett, S., Chodroff, E. (2022). Top-Down and Bottom-up Processing of Familiar and Unfamiliar Mandarin Dialect Tone Systems. Proceeding of Speech Prosody, 842-846, doi: 10.21437/SpeechProsody. 2022-171. [[PDF](https://www.isca-speech.org/archive/pdfs/speechprosody_2022/zhao22_speechprosody.pdf)]
+Zhao, L., Sloggett, S., Chodroff, E. (2022). Top-Down and Bottom-up Processing of Familiar and Unfamiliar Mandarin Dialect Tone Systems. *Proceedings of Speech Prosody 2022*, 842-846, doi: 10.21437/SpeechProsody. 2022-171. [[PDF](https://www.isca-speech.org/archive/pdfs/speechprosody_2022/zhao22_speechprosody.pdf)]
 
 
 The Structure of Space in Amsterdam, published in Overseas English, 2015 (20). ISSN1009-5039.(*Chinese*)
