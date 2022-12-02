@@ -27,6 +27,9 @@
   - 14-15/December/2020 (virtual) 
 
 #### Lab presentations
+2022  Zhao, L. Processing reaction time data from *Gorilla* in R
+  - PhD Stats Group meeting at LLS, University of York, 27/January/2022
+
 2021  Hybrid processing of unfamialr tone systems
   - [Experimental Lab meeting](https://whyps.york.ac.uk), 15/November/2021, Department of Language and Linguistic Science, University of York (in-person)
 
