@@ -39,10 +39,10 @@
 
 **Zhao, L.**, Sloggett, S., Chodroff, E. (2022). Top-Down and Bottom-up Processing of Familiar and Unfamiliar Mandarin Dialect Tone Systems. *Proceedings of Speech Prosody 2022*, 842-846, doi: 10.21437/SpeechProsody. 2022-171. [[PDF](https://www.isca-speech.org/archive/pdfs/speechprosody_2022/zhao22_speechprosody.pdf)]
 
-**Zhao, L.** (2015). The Structure of Space in Amsterdam, published in Overseas English, 2015 (20). ISSN1009-5039.
+**Zhao, L.** (2015). The Structure of Space in *Amsterdam* by Ian McEwan, *Overseas English*, 2015 (20). ISSN1009- 5039.
 
-Zhu, L.D., Zhong, W.X, **Zhao, L.**, Li, H. & He, Y.N. (2015). The Problems and Solutions of Talent Cultivation in Undergraduate Education - The Case Study of Jiangnan University. Northern Literature, 000(004), 196-200. (in Chinese).
+Zhu, L.D., Zhong, W.X, **Zhao, L.**, Li, H. & He, Y.N. (2015). The Problems and Solutions of Talent Cultivation in Undergraduate Education - The Case Study of Jiangnan University. *Northern Literature*, 000(004), 196-200.
 
-Zhong, W.X, Zhu, L.D., **Zhao, L**, Li, J.P. & Shi, J.L. (2015). The Problems and Solutions of English Language Majors in Universities in Jiangsu. Overseas English, (13), 4. (in Chinese).
+Zhong, W.X, Zhu, L.D., **Zhao, L**, Li, J.P. & Shi, J.L. (2015). The Problems and Solutions of English Language Majors in Universities in Jiangsu. *Overseas English*, (13), 4.
 
 
