@@ -16,7 +16,7 @@
   - [PaPE 2023](https://pape-conference.org/index.html), Phonetics and Phonology in Europe
   - 2-4/June/2023, Nijmegen, Netherlands
 
-2022 The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects [[poster](LREC2022_Zhao&Chodroff_poster.pdf)]
+2022 The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects [[poster](/pdfs/LREC2022_Zhao&Chodroff_poster.pdf)]
   - Liang Zhao and Eleanor Chodroff
   - [LREC 2022](https://lrec2022.lrec-conf.org/en/), Language Resources and Evaluation Conference
   - 20-25/June/2022, Marseille, France
