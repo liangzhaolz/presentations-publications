@@ -1,13 +1,28 @@
 ## Research
 
 ### Presentations
+2023 Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure
+  - Liang Zhao, Shayne Sloggett and Eleanor Chodroff
+  - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
+  - 7-11/August/2023, Prague, Czech Republic
+  
+2023 Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin
+  - Xinzi Hou, Liang Zhao and Eleanor Chodroff
+  - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
+  - 7-11/August/2023, Prague, Czech Republic
+
+2023 Rapid adaptation to unfamiliar lexical tone systems: the effects of dialect and explicit exposure
+  - Liang Zhao and Eleanor Chodroff
+  - [PaPE 2023](https://pape-conference.org/index.html), Phonetics and Phonology in Europe
+  - 2-4/June/2023, Nijmegen, Netherlands
+
 2022 The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects [[poster](LREC2022_Zhao&Chodroff_poster.pdf)]
   - Liang Zhao and Eleanor Chodroff
   - [LREC 2022](https://lrec2022.lrec-conf.org/en/), Language Resources and Evaluation Conference
   - 20-25/June/2022, Marseille, France
 
 2022  Top-down and bottom-up processing of familiar and unfamiliar Mandarin dialect tone systems [[poster](SP2022_poster.pdf)]
-  - Liang Zhao, Shayne Sloggett, and Eleanor Chodroff
+  - Liang Zhao, Shayne Sloggett and Eleanor Chodroff
   - [Speech Prosody 2022](http://labfon.letras.ulisboa.pt/sp2022/index.html), SProSIG of International Speech Communication Association
   - 23-26/May/2022, Lisbon, Portugal
 
@@ -31,18 +46,22 @@
   - PhD Stats Group meeting at LLS, University of York, 27/January/2022
 
 2021  Hybrid processing of unfamialr tone systems
-  - [Experimental Lab meeting](https://whyps.york.ac.uk), 15/November/2021, Department of Language and Linguistic Science, University of York (in-person)
+  - [Experimental Lab meeting](https://whyps.york.ac.uk), 15/November/2021, Department of Language and Linguistic Science, University of York 
 
 2020  Remote speech date collection using smartphone recording applications
-  - [Experimental Lab meeting](https://whyps.york.ac.uk), 28/November/2020, Department of Language and Linguistic Science, University of York (virtual)
+  - [Experimental Lab meeting](https://whyps.york.ac.uk), 28/November/2020, Department of Language and Linguistic Science, University of York
 
 
 ### Peer-reviewed publications
+**Zhao, L.**, Sloggett, S. & Chodroff, E. (2023). Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023). [PDF]()
+
+Hou, X.Z., **Zhao, L.** & Chodroff, E. (2023). Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023).[PDF]()
+
 **Zhao, L.** and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. *Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)*, 1985–1990. [[PDF](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.213.pdf)]
 
 **Zhao, L.**, Sloggett, S., Chodroff, E. (2022). Top-Down and Bottom-up Processing of Familiar and Unfamiliar Mandarin Dialect Tone Systems. *Proceedings of Speech Prosody 2022*, 842-846, doi: 10.21437/SpeechProsody. 2022-171. [[PDF](https://www.isca-speech.org/archive/pdfs/speechprosody_2022/zhao22_speechprosody.pdf)]
 
-**Zhao, L.** (2015). The Structure of Space in *Amsterdam* by Ian McEwan, *Overseas English*, 2015 (20). ISSN1009- 5039.
+**Zhao, L.** (2015). The Structure of Space in *Amsterdam* by Ian McEwan, *Overseas English*, 2015 (20). ISSN1009-5039.
 
 Zhu, L.D., Zhong, W.X, **Zhao, L.**, Li, H. & He, Y.N. (2015). The Problems and Solutions of Talent Cultivation in Undergraduate Education - The Case Study of Jiangnan University. *Northern Literature*, 000(004), 196-200.
 
