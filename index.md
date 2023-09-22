@@ -6,12 +6,12 @@
   - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
   - 7-11/August/2023, Prague, Czech Republic
   
-2023 Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin [[slides]()]
+2023 Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin 
   - Xinzi Hou, Liang Zhao and Eleanor Chodroff
   - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
   - 7-11/August/2023, Prague, Czech Republic
 
-2023 Rapid adaptation to unfamiliar lexical tone systems: the effects of dialect and explicit exposure
+2023 Rapid adaptation to unfamiliar lexical tone systems: the effects of dialect and explicit exposure [[slides](/pdfs/PaPE2023_Zhao&Chodroff_slides.pdf)]
   - Liang Zhao and Eleanor Chodroff
   - [PaPE 2023](https://pape-conference.org/index.html), Phonetics and Phonology in Europe
   - 2-4/June/2023, Nijmegen, Netherlands
