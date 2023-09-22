@@ -1,7 +1,7 @@
 ## Research
 
 ### Presentations
-2023 Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure
+2023 Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure [[poster]()]
   - Liang Zhao, Shayne Sloggett and Eleanor Chodroff
   - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
   - 7-11/August/2023, Prague, Czech Republic
@@ -53,14 +53,16 @@
 
 
 ### Peer-reviewed publications
-**Zhao, L.**, Sloggett, S. & Chodroff, E. (2023). Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023). [PDF]()
+**Zhao, L.**, Sloggett, S. & Chodroff, E. (2023). Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023). [PDF](https://guarant.cz/icphs2023/601.pdf)
 
-Hou, X.Z., **Zhao, L.** & Chodroff, E. (2023). Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023).[PDF]()
+Hou, X.Z., **Zhao, L.** & Chodroff, E. (2023). Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023).[PDF](https://guarant.cz/icphs2023/516.pdf)
 
 **Zhao, L.** and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. *Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)*, 1985–1990. [[PDF](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.213.pdf)]
 
 **Zhao, L.**, Sloggett, S., Chodroff, E. (2022). Top-Down and Bottom-up Processing of Familiar and Unfamiliar Mandarin Dialect Tone Systems. *Proceedings of Speech Prosody 2022*, 842-846, doi: 10.21437/SpeechProsody. 2022-171. [[PDF](https://www.isca-speech.org/archive/pdfs/speechprosody_2022/zhao22_speechprosody.pdf)]
 
+
+#### Publications from undergraduate research projects
 **Zhao, L.** (2015). The Structure of Space in *Amsterdam* by Ian McEwan, *Overseas English*, 2015 (20). ISSN1009-5039.
 
 Zhu, L.D., Zhong, W.X, **Zhao, L.**, Li, H. & He, Y.N. (2015). The Problems and Solutions of Talent Cultivation in Undergraduate Education - The Case Study of Jiangnan University. *Northern Literature*, 000(004), 196-200.
