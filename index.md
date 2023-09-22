@@ -1,12 +1,12 @@
 ## Research
 
 ### Presentations
-2023 Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure [[poster]()]
+2023 Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure [[poster](/pdfs/ICPhS2023_ZhaoSloggettChodroff_poster.pdf)]
   - Liang Zhao, Shayne Sloggett and Eleanor Chodroff
   - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
   - 7-11/August/2023, Prague, Czech Republic
   
-2023 Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin
+2023 Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin [[slides]()]
   - Xinzi Hou, Liang Zhao and Eleanor Chodroff
   - [ICPhS 2023](https://www.icphs2023.org), the International Congress of Phonetic Science
   - 7-11/August/2023, Prague, Czech Republic
@@ -53,9 +53,9 @@
 
 
 ### Peer-reviewed publications
-**Zhao, L.**, Sloggett, S. & Chodroff, E. (2023). Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023). [PDF](https://guarant.cz/icphs2023/601.pdf)
+**Zhao, L.**, Sloggett, S. & Chodroff, E. (2023). Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023). [[PDF](https://guarant.cz/icphs2023/601.pdf)]
 
-Hou, X.Z., **Zhao, L.** & Chodroff, E. (2023). Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023).[PDF](https://guarant.cz/icphs2023/516.pdf)
+Hou, X.Z., **Zhao, L.** & Chodroff, E. (2023). Intermingling Tone Systems: The Relationship of Nanning Mandarin to Nanning Cantonese and Standard Mandarin. To appear in the Proceedings of the 20th International Congress of Phonetic Science (ICPhS 2023). [[PDF](https://guarant.cz/icphs2023/516.pdf)]
 
 **Zhao, L.** and Chodroff, E. (2022). The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects. *Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)*, 1985–1990. [[PDF](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.213.pdf)]
 
