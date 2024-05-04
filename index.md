@@ -1,4 +1,6 @@
 ## Research
+### PhD dissertation
+Zhao, Liang.(2023). Production and perception of lexical tone variation in Mandarin dialects. PhD thesis, University of York. [https://etheses.whiterose.ac.uk/34805/]
 
 ### Presentations
 2023 Conditions on Adaptation to an Unfamiliar Lexical Tone System: The Role of Quantity and Quality of Exposure [[poster](/pdfs/ICPhS2023_ZhaoSloggettChodroff_poster.pdf)]
