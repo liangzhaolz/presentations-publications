@@ -1,4 +1,3 @@
-## Research
 ### PhD dissertation
 Zhao, Liang. (2023). Production and perception of lexical tone variation in Mandarin dialects. PhD thesis, University of York. [[WREO: 34805](https://etheses.whiterose.ac.uk/34805/)]
 
@@ -43,7 +42,7 @@ Zhao, Liang. (2023). Production and perception of lexical tone variation in Mand
   - [Australian Linguistic Society (ASL)](https://als.asn.au/Conference/Past-Conferences/Conference-2020/Conference2020) workshop presentation
   - 14-15/December/2020 (virtual) 
 
-#### Lab presentations
+**Lab presentations**
 2022  Zhao, L. Processing reaction time data from *Gorilla* in R
   - PhD Stats Group meeting at LLS, University of York, 27/January/2022
 
@@ -64,11 +63,5 @@ Hou, X.Z., **Zhao, L.** & Chodroff, E. (2023). Intermingling Tone Systems: The R
 **Zhao, L.**, Sloggett, S., Chodroff, E. (2022). Top-Down and Bottom-up Processing of Familiar and Unfamiliar Mandarin Dialect Tone Systems. Proceedings of Speech Prosody 2022, 842-846, doi: 10.21437/SpeechProsody. 2022-171. [[PDF](https://www.isca-speech.org/archive/pdfs/speechprosody_2022/zhao22_speechprosody.pdf)]
 
 
-#### Publications from undergraduate research projects
-**Zhao, L.** (2015). The Structure of Space in *Amsterdam* by Ian McEwan, *Overseas English*, 2015 (20). ISSN1009-5039.
-
-Zhu, L.D., Zhong, W.X, **Zhao, L.**, Li, H. & He, Y.N. (2015). The Problems and Solutions of Talent Cultivation in Undergraduate Education - The Case Study of Jiangnan University. *Northern Literature*, 000(004), 196-200.
-
-Zhong, W.X, Zhu, L.D., **Zhao, L**, Li, J.P. & Shi, J.L. (2015). The Problems and Solutions of English Language Majors in Universities in Jiangsu. *Overseas English*, (13), 4.
 
 
